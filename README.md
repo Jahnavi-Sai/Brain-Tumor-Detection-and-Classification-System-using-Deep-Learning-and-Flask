@@ -1,1 +1,1 @@
-# Jahnavi-Sai-Brain-Tumor-Detection-and-Classification-System-using-Deep-Learning-and-Flask
+# Brain-Tumor-Detection-and-Classification-System-using-Deep-Learning-and-Flask
